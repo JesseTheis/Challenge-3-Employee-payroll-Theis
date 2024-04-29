@@ -11,10 +11,11 @@ const collectEmployees = function() {
     let employeeinfo = {
       firstName:"",
       lastName:"",
-      salary: 0}
+      salary: 0
+    }
   // TODO: Get user input to create and return an array of employee objects
 }
-   }
+}
 
 
 // Display the average salary
